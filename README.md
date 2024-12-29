@@ -5,8 +5,6 @@ I'm new here 🍀
 - ♂️ Tobias, 11/07/2006
 - 📍 Berlin, Germany
 
-🌈︱✊🏿︱🌱︱🗳️
-
 ### 🪁 Projects
 
 - 🤖 [Fuxbot](https://github.com/Toabdjzl/fuxbot) - A Discord bot for my communities
