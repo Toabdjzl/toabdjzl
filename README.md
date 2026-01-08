@@ -12,7 +12,7 @@
 
 ### 🔗 Connections
 
-- 💬 Discord:  toabdjzl - [Treffpunkt](https://discord.gg/palmenstrand) | [Fuxtown](https://discord.gg/K4U94VwAWk) | [Fuxdev](https://discord.gg/UxUC6qT6d8)
+- 💬 Discord:  toabdjzl - [Treffpunkt](https://discord.gg/palmenstrand)
 - 🦋 Bluesky:  [@toabdjzl.bsky.social](https://bsky.app/profile/toabdjzl.bsky.social)
 - 🐘 Mastodon: [@toabdjzl](https://mastodon.social/@toabdjzl)
 - 🐦 Twitter:  [@toabdjzl](https://x.com/toabdjzl)
